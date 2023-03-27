@@ -45,6 +45,7 @@ ul li {
     background-repeat: no-repeat;
     background-size: cover;
     image-rendering: optimizeQuality;
+    image-rendering: crisp-edges;
 }
 main{
     background-color: rgb(209, 169, 8);
